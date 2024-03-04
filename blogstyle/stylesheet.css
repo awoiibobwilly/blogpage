@@ -1,0 +1,23 @@
+
+
+.thefooter {
+    background-color: rgb(71, 216, 216);
+    margin-top: 0%;
+    padding: 2%;
+}
+
+#pic1, #pic2, #pic3, #pic4 {
+
+    width: 10px;
+    height: 800px;
+}
+
+#apple {
+
+    margin-bottom: 30px;
+}
+
+#idee {
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
